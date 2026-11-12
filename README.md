@@ -7,8 +7,8 @@ Bienvenue dans le projet **Start Trek**. L'objectif de ce projet est de concevoi
 
 ```bash
 # 1. Cloner le dépôt
-git clone git@github.com:EpitechPGE2-2025/G-AIA-401-LIL-4-1-starttrek-4.git
-cd start_trek
+git clone https://github.com/jawedlahrouri/StartTrek.git
+cd StartTrek
 
 # 2. Créer et activer l'environnement virtuel
 python3 -m venv venv
